@@ -1,6 +1,8 @@
 # PAN-Number-Validation-Data-Cleaning-Validation-Project
 This project focuses on cleaning, validating, and categorizing PAN (Permanent Account Number) data according to the official Indian PAN format. The objective is to ensure data quality by detecting incorrect, malformed, or incomplete PAN entries within a dataset.
 
+[]!(pan.png)
+
 ``` sql
 -- 1. Identify and handle missing data
 select * from pan_card where pan_numbers is null; 
