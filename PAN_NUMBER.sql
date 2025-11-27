@@ -1,4 +1,4 @@
-## schema
+##schemas
 
 ``` sql
 -- Create the stage table to store original given dataset
